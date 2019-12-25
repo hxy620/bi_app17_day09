@@ -1,0 +1,7 @@
+infor: &data
+  name: "lili"
+  phone: "12312312345"
+
+address:
+  <<: *data
+  detail: "TBD 云集中心"

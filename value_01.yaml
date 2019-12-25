@@ -1,0 +1,45 @@
+#name : "lili"
+
+
+#value1 : {"name":"张三"}  支持python数据类型
+#value2 : 张三 #支持自动转换数据类型
+
+#value3 :   #多层级关系
+#  name1 : "张三"
+#  name2 : "李四"
+
+#value4 :   #数组格式
+#  - 1
+#  - 2
+
+
+#value5 : [1,2,3]   #python数据类型
+
+#字典 套数组
+#value6 :
+#  - name : "lili"
+#  - name : "xixi"
+
+#''纯量-----------------
+#布尔
+#value7 : true
+#Value8 : false
+#
+#value9 : True
+#
+#
+##整数  浮点数
+#value11 : 122
+#value12 : 12.0000000001
+
+#空
+#value13 : ~
+#value14 : None   #不支持python数据  结果为字符串
+#value 16 :           #没有任何内容 支持
+#value 18 : null
+
+
+#日期
+#value20: 2019-12-25 01:02:03  #'datetime.datetime'
+
+
